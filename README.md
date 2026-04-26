@@ -22,4 +22,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sejihad/terminal-clock.git](https://github.com/sejihad/terminal-clock.git)
+   git clone https://github.com/sejihad/terminal-clock.git
